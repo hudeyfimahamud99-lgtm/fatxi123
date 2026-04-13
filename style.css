@@ -1,0 +1,15 @@
+body{font-family: Arial;
+background-color: burlywood;}
+header, footer{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+nav{
+    background-color: brown;
+    padding: 10px;
+}
+nav a{
+    background-color: darksalmon;
+}
